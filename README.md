@@ -1,6 +1,6 @@
 # 🎨 From Zero to Generative: Learning generative modelling from scratch
 
-Welcome to the wild world of generative models :) Buckle up, because we're about to move from "What's a neural network?" to "I trained a flow matching generative model using convolutional neural networks" in only three steps.
+Welcome to the wild world of generative models :) Buckle up, because we're about to move from "What's a neural network?" to "I trained a flow matching generative model using convolutional neural networks" in only two steps.
 
 
 ## 🧠 What's in store?
