@@ -2,11 +2,13 @@
 
 Welcome to the wild world of generative models :) Buckle up, because we're about to move from "What's a neural network?" to "I trained a flow matching generative model using convolutional neural networks" in only two steps.
 
+The slides for the lecture accompanying this tutorial can be found [here](https://slides.com/carolcuesta/from-zero-to-generative).
+
 
 ## 🧠 What's in store?
 
-1. **Classify**: Build your first image classifier
-2. **Generate**: Create your first generative model for images
+1. **Classify**: [Build your first image classifier](https://github.com/florpi/from-zero-to-generative/blob/main/1-zero-classifier.ipynb)
+2. **Generate**: [Train your first generative model for images](https://github.com/florpi/from-zero-to-generative/blob/main/2-generative.ipynb)
 
 
 > 💡 **No prior ML knowledge required!** But be warned: this journey might be challenging. If you find yourself stuck, remember: it's not you, it's the notebook! 😉
